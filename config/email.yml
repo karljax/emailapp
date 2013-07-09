@@ -2,13 +2,13 @@ development:
   :address: smtp.gmail.com
   :port: 587
   :authentication: plain
-  :user_name: kjackson@btsocial.com
+  :user_name: username
   :password: password
   :enable_starttls_auto: true
 production:
   :address: smtp.gmail.com
   :port: 587
   :authentication: plain
-  :user_name: kjackson@btsocial.com
+  :user_name: username
   :password: password
   :enable_starttls_auto: true
